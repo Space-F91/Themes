@@ -237,7 +237,7 @@
   "background": {
     "url": "https://cdn.donmai.us/original/3a/be/__artoria_pendragon_and_saber_fate_and_2_more_drawn_by_neko_no_kedama__3abeb416051fa53861da1410fba108bd.jpg",
     "blur": 0.5,
-    "alpha": 0.25,
+    "alpha": 0.5,
     "size": "cover",
     "position": "center"
   },
