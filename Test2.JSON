@@ -1,9 +1,9 @@
 {
   "name": "test2",
-  "description": "A sleek clean blue theme designed for kettu",
+  "description": "Bleudh",
   "version": "2",
   "authors": [
-    { "name": "Fizz", "id": "629700611994157057" }
+    { "name": "wmedb", "id": "629700611994157057" }
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": ["#2a5d9c"],
@@ -237,9 +237,9 @@
     "WHITE_630": "#a8c6ff"
   },
   "background": {
-    "url": "https://cdn.donmai.us/original/3a/be/__artoria_pendragon_and_saber_fate_and_2_more_drawn_by_neko_no_kedama__3abeb416051fa53861da1410fba108bd.jpg",
-    "blur": 0.5,
-    "alpha": 0.25,
+    "url": "https://cdn.donmai.us/original/1f/db/__artoria_pendragon_and_saber_fate_and_1_more_drawn_by_en_enxxx__1fdb7f54378a8a0c1a0db5590b2cc4da.jpg",
+    "blur": 0.25,
+    "alpha": 0.5,
     "size": "cover",
     "position": "center"
   },
